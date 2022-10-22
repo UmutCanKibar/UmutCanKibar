@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Umut can kibar</h1>
 <h3 align="center">Coding The New Universe</h3>
 
+🔭 I’m currently working on Unity
+
+📘 I love learning new things.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umut can kibar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut can kibar" height="30" width="40" /></a>
