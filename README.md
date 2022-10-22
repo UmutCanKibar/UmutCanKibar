@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Unity
 
 📘 I love learning new things.
+
+![gwent-gwentcard](https://user-images.githubusercontent.com/89220349/197347893-52c9492e-4cf3-4ef3-9d65-2bac40286925.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umut can kibar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut can kibar" height="30" width="40" /></a>
