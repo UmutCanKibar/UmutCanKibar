@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Uploading 26a09634994b96e38d5bdafd16fa9b75.gif…]()
+
 
 <h1 align="center">Hi 👋, I'm Umut can kibar</h1>
 <h3 align="center">Coding The New Universe</h3>
