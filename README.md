@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **UmutCanKibar/UmutCanKibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![26a09634994b96e38d5bdafd16fa9b75](https://user-images.githubusercontent.com/89220349/197348235-ba563dad-b1f8-4b63-8ecc-1e158abe4377.gif)
+![Uploading 26a09634994b96e38d5bdafd16fa9b75.gif…]()
+
 
 <h1 align="center">Hi 👋, I'm Umut can kibar</h1>
 <h3 align="center">Coding The New Universe</h3>
