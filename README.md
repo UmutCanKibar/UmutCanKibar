@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-<iframe src="https://giphy.com/embed/ZFjChEv0Fcm7HwvHEP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-universe-cosmos-ZFjChEv0Fcm7HwvHEP">via GIPHY</a></p>
 
 
 <h1 align="center">Hi 👋, I'm Umut can kibar</h1>
