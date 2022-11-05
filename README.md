@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
+<img src="https://user-images.githubusercontent.com/89220349/200117309-367e8c39-ddf6-4255-9c0b-cf1fa89af001.gif" width="1100" height="450"/>
 <h1 align="center">Hi 👋, I'm Umut can kibar</h1>
 <h3 align="center">Coding The New Universe</h3>
 
 🔭 I’m currently working on Unity
 
 📘 I love learning new things.
+
+
 
 
 
